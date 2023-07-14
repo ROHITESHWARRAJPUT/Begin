@@ -1,0 +1,16 @@
+body{
+	background-color:#000;
+	color:#fff;
+}
+
+.rows{
+	padding:20px;
+}
+.row>input{
+	padding:10px 5px;
+	width:100%;
+	border:2px solid #000;
+	border-radius:10px 50px;
+	font-size:30px;
+	text-indent:30px;
+}
